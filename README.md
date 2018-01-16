@@ -1,6 +1,14 @@
 # LittleSpringChat
 Little Spring Interview Mockup
 
+Technologies Used:
+1.[NODE.JS]
+2.[AngularJS] (V 2.0)
+3.[Bootstrap]
+4.[Express]
+5.[JQuery]
+6.[Lightbox]
+
 
 <h2><b>To Start this application you must do the following: </b></h2>
 
