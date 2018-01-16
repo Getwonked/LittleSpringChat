@@ -2,12 +2,14 @@
 Little Spring Interview Mockup
 
 Technologies Used:
-1.[NODE.JS]
-2.[AngularJS] (V 2.0)
-3.[Bootstrap]
-4.[Express]
-5.[JQuery]
-6.[Lightbox]
+<li>
+<ol>[NODE.JS]</ol>
+<ol>[AngularJS] (V 2.0)</ol>
+<ol>[Bootstrap]</ol>
+<ol>[Express]</ol>
+<ol>[JQuery]</ol>
+<ol>[Lightbox]<ol>
+</li>
 
 
 <h2><b>To Start this application you must do the following: </b></h2>
