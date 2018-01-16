@@ -2,7 +2,7 @@
 Little Spring Interview Mockup
 
 
-To Start this application you must do the following 
+<h2><b>To Start this application you must do the following </b></h2>
 
 1. Clone repository locally either by downloading the Zip file or from git bash using the command "git clone https://github.com/Getwonked/ChatRoom.git"
 
